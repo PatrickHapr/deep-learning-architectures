@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+**__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
+data/raw/
+*.zip
+*.h5
+*.keras
+training_checkpoints/

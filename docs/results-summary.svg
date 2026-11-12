@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+  <rect width="900" height="380" fill="#ecfeff"/>
+  <rect x="30" y="30" width="840" height="320" rx="16" fill="#ffffff" stroke="#a5f3fc"/>
+  <text x="60" y="85" font-family="Segoe UI, Arial" font-size="28" fill="#155e75">IAA009 - Resumo de Experimentos</text>
+  <text x="60" y="130" font-family="Segoe UI, Arial" font-size="18" fill="#0f172a">CNN CIFAR-10: 10 classes</text>
+  <text x="60" y="165" font-family="Segoe UI, Arial" font-size="18" fill="#0f172a">RNN/LSTM Spam: 5 epocas</text>
+  <text x="60" y="200" font-family="Segoe UI, Arial" font-size="18" fill="#0f172a">GAN MNIST: 100 epocas</text>
+  <text x="60" y="235" font-family="Segoe UI, Arial" font-size="18" fill="#0f172a">Transformer PT-EN: seq2seq com attention</text>
+</svg>

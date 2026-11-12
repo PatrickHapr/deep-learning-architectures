@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="240" viewBox="0 0 980 240">
+  <rect width="980" height="240" fill="#f0fdfa"/>
+  <rect x="35" y="70" width="210" height="100" rx="10" fill="#99f6e4"/>
+  <rect x="270" y="70" width="210" height="100" rx="10" fill="#5eead4"/>
+  <rect x="505" y="70" width="210" height="100" rx="10" fill="#2dd4bf"/>
+  <rect x="740" y="70" width="205" height="100" rx="10" fill="#0f766e"/>
+  <text x="95" y="122" font-family="Segoe UI, Arial" font-size="16" fill="#0f172a">CNN</text>
+  <text x="328" y="122" font-family="Segoe UI, Arial" font-size="16" fill="#0f172a">RNN/LSTM</text>
+  <text x="566" y="122" font-family="Segoe UI, Arial" font-size="16" fill="#0f172a">GAN</text>
+  <text x="790" y="122" font-family="Segoe UI, Arial" font-size="16" fill="#ffffff">Transformer</text>
+</svg>
